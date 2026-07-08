@@ -64,7 +64,7 @@ I am a Full-Stack Web Developer and UI/UX Designer with a strong academic backgr
 
 ## Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/akashthakur-v/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://upwork.com/freelancers/~YOUR_UPWORK_ID" target="_blank">
