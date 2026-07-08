@@ -62,14 +62,6 @@ I am a Full-Stack Web Developer and UI/UX Designer with a strong academic backgr
 
 ---
 
-## Featured Projects
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=akashveritos-dot&repo=email_dashboard&theme=tokyonight" alt="Email Dashboard Repo" />
-</p>
-
----
-
 ## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
