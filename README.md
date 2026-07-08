@@ -39,7 +39,7 @@ I am a Full-Stack Web Developer and UI/UX Designer with a strong academic backgr
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### Backend, Databases & Intelligence
+### ⚙️ Backend, Databases & Intelligence
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -53,11 +53,11 @@ I am a Full-Stack Web Developer and UI/UX Designer with a strong academic backgr
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=akashveritos-dot&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akashveritos-dot&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=akashveritos-dot&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akashveritos-dot&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=akashveritos-dot&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ I am a Full-Stack Web Developer and UI/UX Designer with a strong academic backgr
 ## Featured Projects
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=akashveritos-dot&repo=email_dashboard&theme=tokyonight" alt="Email Dashboard Repo" />
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=akashveritos-dot&repo=email_dashboard&theme=tokyonight" alt="Email Dashboard Repo" />
 </p>
 
 ---
