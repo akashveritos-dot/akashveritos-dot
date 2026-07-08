@@ -1,30 +1,35 @@
-<h1 align="center">Hi 👋, I'm Akash Thakur</h1>
-<h3 align="center">💻 Full-Stack Web Developer | Crafting Beautiful & Scalable Websites</h3>
+<div align="center">
+  <h2>Hi, I'm Akash Thakur</h2>
+  <h4>Full-Stack Web Developer | UI/UX Designer | Workflow Automation Expert</h4>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;UI%2FUX+Designer;Workflow+Automation+Expert;AI+Chatbot+Builder;Always+Learning+%26+Innovating" alt="Typing SVG" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;UI%2FUX+Designer;Workflow+Automation+Expert;AI+Chatbot+Builder;Always+Learning+%26+Innovating" alt="Typing SVG" />
+  </p>
 
-<p align="center">
-  <a href="https://github.com/akashveritos-dot">
-    <img src="https://img.shields.io/github/followers/akashveritos-dot?color=00C2FF&label=Followers&style=flat-square" alt="GitHub Followers" />
-  </a>
-  <img src="https://komarev.com/normal-badge/?username=akashveritos-dot&color=00c2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
----
-
-## 🌟 About Me
-- 💻 I design **beautiful, responsive websites** with modern UI/UX.  
-- ⚡ Skilled in **frontend (React, HTML, CSS, JS)** & **backend (Node.js, PHP, MySQL)**.  
-- 🚀 Exploring **AI chatbot development** and **deep learning**.  
-- 📊 Background in **Commerce + MBA (Finance)**, bridging **business & technology**.  
+  <p align="center">
+    <a href="https://github.com/akashveritos-dot">
+      <img src="https://img.shields.io/github/followers/akashveritos-dot?color=00C2FF&label=Followers&style=flat-square" alt="GitHub Followers" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=akashveritos-dot&color=00c2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
-## 🛠️ Technology Stack
+## About Me
 
-### 🎨 Frontend & Design
+I am a Full-Stack Web Developer and UI/UX Designer with a strong academic background in Computer Applications, holding a Master of Computer Applications (MCA) specialized in Artificial Intelligence and Machine Learning, and a Bachelor of Computer Applications (BCA). I focus on building high-performance web systems and automating complex workflows.
+
+* **Core Focus**: Designing responsive, accessible, and visually premium web systems with modern UI/UX principles.
+* **Technical Skills**: Full-Stack engineering using React, Node.js, PHP, and database optimization.
+* **AI & Machine Learning**: Specialized in AI/ML architectures, deep learning models, and intelligent chatbot integrations.
+* **Education**: Master of Computer Applications (MCA) in AI & ML | Bachelor of Computer Applications (BCA).
+
+---
+
+## Technology Stack
+
+### Frontend & Design
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -34,7 +39,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### ⚙️ Backend, Databases & Intelligence
+### Backend, Databases & Intelligence
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -44,27 +49,28 @@
 
 ---
 
-## 📊 GitHub Stats & Analytics
+## GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashveritos-dot&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashveritos-dot&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=akashveritos-dot&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akashveritos-dot&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashveritos-dot&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Featured Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashveritos-dot&repo=email_dashboard&theme=tokyonight" alt="Email Dashboard Repo" />
+  <img src="https://streak-stats.demolab.com/?user=akashveritos-dot&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Featured Projects
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=akashveritos-dot&repo=email_dashboard&theme=tokyonight" alt="Email Dashboard Repo" />
+</p>
+
+---
+
+## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -78,5 +84,5 @@
 </p>
 
 <p align="center">
-  <sub>💡 <i>"The best way to predict the future is to invent it." — Alan Kay</i></sub>
+  <sub><i>"The best way to predict the future is to invent it." — Alan Kay</i></sub>
 </p>
